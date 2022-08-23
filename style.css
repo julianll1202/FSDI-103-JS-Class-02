@@ -1,0 +1,17 @@
+body{
+    font-family: Verdana, sans-serif;
+}
+
+#studentInfo{
+    background-color: lightblue;
+    width: 500px;
+    padding: 10px;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+}
